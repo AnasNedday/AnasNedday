@@ -1,4 +1,7 @@
-### Hi there 👋I'm ANAS NEDDAY Engineering student in Big Data and Cloud Computing. Passionate about new technologies, motivated and endowed with a strong ability to acquire new skills.
+### Hi there 👋  I'm ANAS NEDDAY Engineering student in Big Data and Cloud Computing. Passionate about new technologies, motivated and endowed with a strong ability to acquire new skills.
+
+[![LinkedIn](/images/linkedin.png)](https://www.linkedin.com/in/anas-nedday-944562234/)
+[![Indeed](/images/indeed.png)](https://www.indeed.com/?hl=fr_MA&co=MA&from=gnav-jobseeker-profile--profile-one-frontend)
 
 <!--
 **AnasNedday/AnasNedday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
