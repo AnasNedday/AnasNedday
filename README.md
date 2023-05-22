@@ -1,7 +1,8 @@
 ### Hi there 👋  I'm ANAS NEDDAY Engineering student in Big Data and Cloud Computing. Passionate about new technologies, motivated and endowed with a strong ability to acquire new skills.
 
 Account LinkedIN : 
-[![LinkedIn](linkedin.png)](https://www.linkedin.com/in/anas-nedday-944562234/)
+[![LinkedIn](linkedin.png)](https://www.linkedin.com/in/anas-nedday-944562234/)<br>
+
 My Profile Indeed :
 [![Indeed](indeed.png)](https://www.indeed.com/?hl=fr_MA&co=MA&from=gnav-jobseeker-profile--profile-one-frontend)
 
