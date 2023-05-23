@@ -5,9 +5,9 @@
 
 
 
-### My Skills 
+### Skills :
 
-![Angular](Angular.png)  ![Spring](SpringBoot.png) ![Python](Python.png)]  ![Java](Java.png)
+![Angular](Angular.png)  ![Spring](SpringBoot.png) ![Python](Python.png)  ![Java](Java.png) ![Hadoop](Hadoop.png) ![NodeJs](NodeJs.png) ![Js](JavaScript.png)
 <!--
 **AnasNedday/AnasNedday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
