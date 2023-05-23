@@ -4,7 +4,7 @@
 [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/anas-nedday-944562234/)<br>
 
 
-
+[![Angular](Angular.png)]  [![Spring](SpringBoot.png)]  [![Python](Python.png)]  [![Java](Java.png)] 
 <!--
 **AnasNedday/AnasNedday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
