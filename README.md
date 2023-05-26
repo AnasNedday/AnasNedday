@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm ANAS NEDDAY Engineering student in Big Data and Cloud Computing. Passionate about new technologies, motivated and endowed with a strong ability to acquire new skills.
 
-![COVER](Black and White Creative Profile Information LinkedIn Article Cover Image.png)
+![COVER](cover.png)
 
 
 [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/anas-nedday-944562234/)<br>
