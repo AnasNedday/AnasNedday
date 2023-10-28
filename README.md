@@ -33,7 +33,7 @@
   <img src="Hadoop.png" width="50" height="50" alt="Hadoop">
   <!-- Ajoutez ici d'autres compétences liées aux données -->
 </p>
-<!-- Section for Development Skills -->
+
 ## Development Skills
 - HTML, CSS, JavaScript
 - Front-end frameworks (e.g., React, Angular,)
@@ -43,6 +43,7 @@
 - Full-stack web development
 - User-friendly interface design
 - Website deployment
+
 <p align="center">
   <img src="Angular.png" width="50" height="50" alt="Angular">
   <img src="SpringBoot.png" width="50" height="50" alt="Spring Boot">
