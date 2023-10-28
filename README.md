@@ -34,6 +34,14 @@
   <!-- Ajoutez ici d'autres compétences liées aux données -->
 </p>
 
+## Cloud Skills
+- Amazon Web Services (AWS)
+- Google Cloud Platform (GCP)
+- Cloud computing and virtualization
+- Serverless computing
+- Infrastructure as Code (IaC)
+- Containerization and orchestration (e.g., Docker, Kubernetes)
+
 ## Development Skills
 - HTML, CSS, JavaScript
 - Front-end frameworks (e.g., React, Angular,)
