@@ -14,15 +14,35 @@
   </a>
 </p>
 
-<!-- Data Skills Section -->
-<h2 align="center">Data Skills</h2>
+
+<!-- Section for Data Skills -->
+## Data Skills
+- Data Extraction, Transformation, and Loading (ETL)
+- Data analysis
+- Data engineering
+- Relational databases (SQL)
+- Big Data (Hadoop, Spark)
+- Data visualization (e.g., Matplotlib, D3.js)
+- Machine Learning
+- Data Science
+- Business Intelligence
+- Data Warehousing
+- Data exploration
+
 <p align="center">
   <img src="Hadoop.png" width="50" height="50" alt="Hadoop">
   <!-- Ajoutez ici d'autres compétences liées aux données -->
 </p>
-
-<!-- Development Skills Section -->
-<h2 align="center">Development Skills</h2>
+<!-- Section for Development Skills -->
+## Development Skills
+- HTML, CSS, JavaScript
+- Front-end frameworks (e.g., React, Angular,)
+- Back-end frameworks (e.g., Flask, Django..)
+- Responsive web design
+- Database management (e.g., SQL, NoSQL)
+- Full-stack web development
+- User-friendly interface design
+- Website deployment
 <p align="center">
   <img src="Angular.png" width="50" height="50" alt="Angular">
   <img src="SpringBoot.png" width="50" height="50" alt="Spring Boot">
