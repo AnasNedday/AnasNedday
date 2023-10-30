@@ -5,7 +5,11 @@
 
 <!-- Intro Section -->
 <h1 align="center">Hi there 👋 I'm ANAS NEDDAY</h1>
-<img src="me.jpeg" width="100%" 0>
+<p align="center">
+  <img src="me.jpeg" width="20%" height="auto">
+</p>
+
+
 <p align="center">Engineering student in Big Data and Cloud Computing. Passionate about new technologies, motivated, and endowed with a strong ability to acquire new skills.</p>
 
 <!-- LinkedIn Link -->
