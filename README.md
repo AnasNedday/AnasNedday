@@ -1,16 +1,15 @@
-<!-- Header -->
-<p align="center">
-  <img src="cover.png" width="100%" alt="COVER">
-</p>
 
 <!-- Intro Section -->
-<h1 align="center">Hi there 👋 I'm ANAS NEDDAY</h1>
-<p align="center">
-  <img src="IMG_6155.jpg" width="20%" height="auto">
-</p>
+<div style="display: flex; align-items: center;">
+  <img src="IMG_6155.jpg" width="20%" height="auto" style="margin-right: 10px;">
+  <h1 style="text-align: left; margin: 0;">Hi there 👋 I'm ANAS NEDDAY</h1>
+</div>
+  <p style="text-align: left;">
+    Engineering student in Big Data and Cloud Computing. Passionate about new technologies, motivated, and endowed with a strong ability to acquire new skills.
+  </p>
+</div>
 
 
-<p align="center">Engineering student in Big Data and Cloud Computing. Passionate about new technologies, motivated, and endowed with a strong ability to acquire new skills.</p>
 
 <!-- LinkedIn Link -->
 <p align="center">
