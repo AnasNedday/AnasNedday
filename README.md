@@ -36,6 +36,14 @@
 
 <p align="center">
   <img src="Hadoop.png" width="50" height="50" alt="Hadoop">
+  <img src="scala.png" width="50" height="50" alt="scala">
+  <img src="kafka.png" width="50" height="50" alt="kafka">
+  <img src="spark.png" width="50" height="50" alt="spark">
+  <img src="hive.svg" width="50" height="50" alt="Hive">
+  <img src="mongodb.png" width="50" height="50" alt="mongodb">
+  <img src="mysql.png" width="50" height="50" alt="mysql">
+  <img src="Linux.png" width="50" height="50" alt="linux">
+  
   <!-- Ajoutez ici d'autres compétences liées aux données -->
 </p>
 
@@ -46,6 +54,13 @@
 - Serverless computing
 - Infrastructure as Code (IaC)
 - Containerization and orchestration (e.g., Docker, Kubernetes)
+<p align="center">
+  <img src="AWS.png" width="50" height="50" alt="aws">
+  <img src="gcp.png" width="50" height="50" alt="gcp">
+  <img src="docker.png" width="50" height="50" alt="docker">
+  <img src="kubernetes.png" width="50" height="50" alt="kubernetes">
+  
+</p>
 
 ## Development Skills
 - HTML, CSS, JavaScript
