@@ -6,7 +6,7 @@
 <!-- Intro Section -->
 <h1 align="center">Hi there 👋 I'm ANAS NEDDAY</h1>
 <p align="center">
-  <img src="me.jpeg" width="20%" height="auto">
+  <img src="IMG_6155.jpg" width="20%" height="auto">
 </p>
 
 
