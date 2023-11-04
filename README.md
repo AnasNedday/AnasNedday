@@ -1,8 +1,8 @@
 
 <!-- Intro Section -->
 <div style="display: flex; align-items: center;">
-  <img src="IMG_6155.jpg" width="20%" height="auto" style="margin-right: 10px;">
-  <h1 style="text-align: left; margin: 0;">Hi there 👋 I'm ANAS NEDDAY</h1>
+  <img src="mybanner.png" >
+  <h1 style="text-align: left; margin: 0;"> Hi there 👋 I'm ANAS NEDDAY </h1>
 </div>
   <p style="text-align: left;">
     Engineering student in Big Data and Cloud Computing. Passionate about new technologies, motivated, and endowed with a strong ability to acquire new skills.
