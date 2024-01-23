@@ -11,12 +11,19 @@
 
 
 
-<!-- LinkedIn Link -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/anas-nedday-944562234/">
-    <img src="linkedin.png" width="30" height="30" alt="LinkedIn">
-  </a>
-</p>
+
+<div>
+   <h3>Connect With Me</h3>
+</div>
+<div align="center">
+  <div>
+    <a href="https://web.facebook.com/anas.nedday.01/"><img src="https://img.shields.io/badge/ANAS NEDDAY-cdd6f4?style=flat&logo=facebook" /></a>
+    <a href="https://www.instagram.com/anas_nedday/"><img src="https://img.shields.io/badge/Anas_nedday-eba0ac?style=flat&logo=instagram" /></a>
+    <a href="https://www.linkedin.com/in/anas-nedday/"><img src="https://img.shields.io/badge/Anas NEDDAY-74c7ec?style=flat&logo=linkedin" /></a>
+    <a href="mailto:neddayanas@gmail.com"><img src="https://img.shields.io/badge/neddayanas@gmail.com-f2cdcd?style=flat&logo=gmail" /></a>
+  </div>
+</div>
+
 
 
 <!-- Section for Data Skills -->
