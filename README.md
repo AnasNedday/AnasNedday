@@ -1,7 +1,7 @@
 
 <!-- Intro Section -->
 <div style="display: flex; align-items: center;">
-  <img src="mybanner.png" >
+  <img src="profile.png" >
   <h1 style="text-align: left; margin: 0;"> Hi there 👋 I'm ANAS NEDDAY </h1>
 </div>
   <p style="text-align: left;">
